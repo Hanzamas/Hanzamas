@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Project Based Learning.<br>👯 I’m looking to collaborate on Mobile Development.<br>🤝 I’m looking for help with Learning Object Oriented Programming.<br>🌱 I’m currently learning Kotlin Language.<br>💬 Ask me about Anything, Happy to help you.<br>⚡ Fun fact, I'm not into any relationship until now.
+🔭 I’m currently working on Project Based Learning.<br>👯 I’m looking to collaborate on Mobile Development.<br>🤝 I’m looking for help with Learning Object Oriented Programming.<br>🌱 I’m currently learning Kotlin Language.<br>💬 I will not upload any of my projects until i feel the projects doesn't have any kind of bugs or until it's flawless.<br>⚡ Fun fact, I'm not into any relationship until now.
 
 
 ## 🌐 Socials:
