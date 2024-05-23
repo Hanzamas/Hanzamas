@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Something.<br>👯 I’m looking to collaborate on Anything.<br>🤝 I’m looking for help with Anything.<br>🌱 I’m currently learning something.<br>💬 20 Years Never having engagement / relationship.<br>⚡ No.1 Top Racist.
+🔭 I’m currently working on Something.<br>👯 I’m looking to collaborate on Anything.<br>🤝 I’m looking for help with Anything.<br>🌱 I’m currently learning something.<br>💬 20 Years Never having engagement / relationship.<br>⚡ No.1 Top Racist on niggeria.
 
 
 # 💻 Tech Stack:
