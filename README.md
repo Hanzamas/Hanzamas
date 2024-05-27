@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Something.<br>👯 I’m looking to collaborate on Anything.<br>🤝 I’m looking for help with Anything.<br>🌱 I’m currently learning something.<br>💬 20 Years Never having engagement / relationship.<br>⚡ No.1 Top Notch Racism on niggeria.
+🔭 I’m currently working on Something.<br>👯 I’m looking to collaborate on Anything.<br>🤝 I’m looking for help with Anything.<br>🌱 I’m currently learning something.<br>💬 20 Years Never having engagement / relationship.<br>⚡ No.1 Top Notch Racism on niggeria.<br>💬 Jago wengdev pakai php native, laravel, codeigniter.<br> 🔭 Masih belajar expressjs,nextjs,reactjs.<br>🌱 Utiwi jadi wengdev sama mobildev fullstac bjir. :v
 
 
 # 💻 Tech Stack:
