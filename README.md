@@ -1,5 +1,10 @@
 ![](https://github.com/Verolynz/Verolynz/blob/main/banner.png)
 # 💫 About Me:
+<br>Jasa Joki Tugas Kuliah dan Sekolah:
+<br>-Website
+<br>-Aplikasi Android
+<br>-Database
+<br>-Makalah, Laporan, Tugas Akhir.
 🔭 Cukup tau wengdev pakai php native, laravel, codeigniter.<br>👯 Not really attractive enough.<br>🤝 Jawir yang ramah.<br>🌱 Jangan sok jago dan sotoy apalagi menggurui kalo baru nyelem surface keliatan banget tuh sok iyes nya. :v<br>💬 Bersama jawir membangun negeri.<br>⚡ Masih belajar expressjs,nextjs,reactjs.
 
 # 💻 Tech Stack:
