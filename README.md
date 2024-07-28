@@ -20,7 +20,7 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 😂 Resume
+### 🌱 Resume
 <img src='https://github.com/Hanzamas/Hanzamas/blob/main/resume.png' style=";"/>
 
 ---
