@@ -1,7 +1,7 @@
 ![](https://github.com/Hanzamas/Hanzamas/blob/main/banner.png)
 <br>
 # 💫 About Me:
-<br>🔭 
+<br>🔭 Scroll down to check my Resume.
 <br>👯 
 <br>🤝 
 <br>🌱 
