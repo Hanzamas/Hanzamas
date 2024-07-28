@@ -14,10 +14,10 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=hanzamas&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=hanzamas&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=hanzamas&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](httpss://github-contributor-stats.vercel.apps/api?username=hanzamas&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ## 🏆 GitHub Trophies
-![](httpsss://github-profile-trophy.vercel.apps/?username=Hanzamas&theme=onedark&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=Hanzamas&theme=onedark&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
