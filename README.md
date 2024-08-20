@@ -21,7 +21,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🌱 Resume
-<img src='https://github.com/Hanzamas/Hanzamas/blob/main/resume.png' style=";"/>
+<img src='https://github.com/Hanzamas/Hanzamas/blob/main/something.png' style=";"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Hanzamas&icon=1&color=0)](https://visitcount.itsvg.in)
