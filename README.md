@@ -1,7 +1,7 @@
 ![](https://github.com/Hanzamas/Hanzamas/blob/main/banner.png)
 <br>
 # 💫 About Me:
-<br>💬 Suffering Student.
+💬 Everyday is a Disastrous Day.
 
 # 💻 Tech Stack:
 <br> ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) 
