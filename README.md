@@ -1,17 +1,9 @@
 ![](https://github.com/Hanzamas/Hanzamas/blob/main/banner.png)
 <br>
 <video src="https://github.com/user-attachments/assets/d7ab5251-1518-4dc7-bf47-42e3e0ae825b" width="1980" height="1080" ></video>
-[![Watch the video](https://img.youtube.com/VN1KX6vSKM4/maxresdefault.jpg)](https://www.youtube.com/watch?v=VN1KX6vSKM4)
+[![Watch the video](https://github.com/user-attachments/assets/9095d599-7996-4373-be9b-703d57b9add0)](https://youtu.be/VN1KX6vSKM4)
 <br>
 # 💫 About Me:
-
-
-
-
-
-
-
-
 
 💬 Everyday is a Disastrous Day.
 
