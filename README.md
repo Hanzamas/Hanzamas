@@ -1,6 +1,6 @@
 ![](https://github.com/Hanzamas/Hanzamas/blob/main/banner.png)
 <br>
-[![Watch the video](https://github.com/user-attachments/assets/07b4848c-2ed5-4a4c-ae9b-24fc087ecf99)](https://drive.google.com/file/d/1e9C4vD0oN_04IFPJAVpXm0gYuEiN4ulj/view)
+[![Watch the video](https://github.com/user-attachments/assets/07b4848c-2ed5-4a4c-ae9b-24fc087ecf99)](https://drive.google.com/file/d/1e9C4vD0oN_04IFPJAVpXm0gYuEiN4ulj/preview)
 <br>
 # 💫 About Me:
 
