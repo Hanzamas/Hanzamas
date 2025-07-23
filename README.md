@@ -3,7 +3,7 @@
 
 # 💫 About Me:
 
-💬 Excels in IT Support, Network Systems, and Server Management, especially on Linux and cloud platforms.
+💬 Excels in IT Support, Network Systems, and Server Management, especially on Linux and cloud platforms. <br>
 💬 But using full AI Tools in Coding to speed things up — whether I’m building backends with Spring Boot, mobile apps with Kotlin Jetpack Compose, or frontends with HTML, CSS, and JavaScript.
 
 # 💻 Tech Stack:
