@@ -4,7 +4,7 @@
 # 💫 About Me:
 
 💬 Excels in IT Support, Network Systems, and Server Management, especially on Linux and cloud platforms. <br>
-💬 But using full AI Tools in Coding to speed things up — whether I’m building backends with Spring Boot, mobile apps with Kotlin Jetpack Compose, or frontends with HTML, CSS, and JavaScript.
+💬 Also passionate about software development — using AI tools to speed things up, from building backends with Spring Boot, to mobile apps with Kotlin Jetpack Compose, and frontends with HTML, CSS, and JavaScript.
 
 # 💻 Tech Stack:
 <br> Language:   ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
