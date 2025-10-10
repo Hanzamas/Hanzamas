@@ -1,4 +1,4 @@
-# Hanzamas
+# HANZAMAS SKILL ISSUE🤪
 
 ![Banner](https://github.com/Hanzamas/Hanzamas/blob/main/banner.png)
 
