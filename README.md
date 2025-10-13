@@ -1,4 +1,4 @@
-# HMX-12 Multi OwO
+# HMX-12 Multi
 
 ![Banner](https://github.com/Hanzamas/Hanzamas/blob/main/ss_94558c441dd372fadb2fb782e0cdc3361f8e2805.1920x1080.jpg)
 
