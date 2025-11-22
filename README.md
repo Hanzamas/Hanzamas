@@ -1,6 +1,6 @@
-# HMX-12 Multi
+# Struggle ?
 
-![[Banner](https://github.com/user-attachments/assets/08452310-55e2-48d8-99a8-9aff1808f816)
+![Banner](https://github.com/Hanzamas/Hanzamas/blob/main/Hero-of-the-revolution.jpg)
 
 ## Daftar Isi
 - [💫 About Me](#-about-me)
