@@ -1,6 +1,6 @@
 # HMX-12 Multi
 
-![Banner](https://github.com/Hanzamas/Hanzamas/blob/main/ss_94558c441dd372fadb2fb782e0cdc3361f8e2805.1920x1080.jpg)
+![[Banner](https://github.com/user-attachments/assets/08452310-55e2-48d8-99a8-9aff1808f816)
 
 ## Daftar Isi
 - [💫 About Me](#-about-me)
